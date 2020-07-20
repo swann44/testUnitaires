@@ -7,6 +7,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ex49rvNLd9OxZhSY5vOsmqVxfG" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -15,6 +18,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -24,7 +28,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="JUnit.AppTest.test4">
+  <component name="RunManager" selected="JUnit.AppTest.test5">
     <configuration name="AppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="vowels" />
       <extension name="coverage">
@@ -72,22 +76,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="vowels" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.AppTest" />
-      <option name="METHOD_NAME" value="test3" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="AppTest.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="vowels" />
       <extension name="coverage">
@@ -104,13 +92,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AppTest.test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="vowels" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.AppTest" />
+      <option name="METHOD_NAME" value="test5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AppTest.test5" />
         <item itemvalue="JUnit.AppTest.test4" />
         <item itemvalue="JUnit.AppTest" />
         <item itemvalue="JUnit.AppTest.test2" />
         <item itemvalue="JUnit.AppTest.test1" />
-        <item itemvalue="JUnit.AppTest.test3" />
       </list>
     </recent_temporary>
   </component>
@@ -132,21 +136,21 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="774" height="187" key="GridCell.Tab.0.bottom" timestamp="1595253935412">
+    <state width="774" height="187" key="GridCell.Tab.0.bottom" timestamp="1595254138449">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state width="774" height="187" key="GridCell.Tab.0.bottom/67.27.1533.873@67.27.1533.873" timestamp="1595253935412" />
-    <state width="774" height="187" key="GridCell.Tab.0.center" timestamp="1595253935412">
+    <state width="774" height="187" key="GridCell.Tab.0.bottom/67.27.1533.873@67.27.1533.873" timestamp="1595254138449" />
+    <state width="774" height="187" key="GridCell.Tab.0.center" timestamp="1595254138447">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state width="774" height="187" key="GridCell.Tab.0.center/67.27.1533.873@67.27.1533.873" timestamp="1595253935412" />
-    <state width="774" height="187" key="GridCell.Tab.0.left" timestamp="1595253935412">
+    <state width="774" height="187" key="GridCell.Tab.0.center/67.27.1533.873@67.27.1533.873" timestamp="1595254138447" />
+    <state width="774" height="187" key="GridCell.Tab.0.left" timestamp="1595254138447">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state width="774" height="187" key="GridCell.Tab.0.left/67.27.1533.873@67.27.1533.873" timestamp="1595253935412" />
-    <state width="774" height="187" key="GridCell.Tab.0.right" timestamp="1595253935412">
+    <state width="774" height="187" key="GridCell.Tab.0.left/67.27.1533.873@67.27.1533.873" timestamp="1595254138447" />
+    <state width="774" height="187" key="GridCell.Tab.0.right" timestamp="1595254138448">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state width="774" height="187" key="GridCell.Tab.0.right/67.27.1533.873@67.27.1533.873" timestamp="1595253935412" />
+    <state width="774" height="187" key="GridCell.Tab.0.right/67.27.1533.873@67.27.1533.873" timestamp="1595254138448" />
   </component>
 </project>

@@ -40,4 +40,9 @@ public class AppTest
         assertEquals("aeiouy", App.uniqueVowels("aeijouy"));
     }
 
+    @Test
+    public void test5() {
+        assertEquals("aeiouy", App.uniqueVowels("aeijouuy"));
+    }
+
 }
